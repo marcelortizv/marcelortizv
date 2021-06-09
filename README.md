@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelortizv
-- 👀 I’m interested in Causal Inference, NLP, Machine Learning and Deep Learning
-- 🌱 I’m currently learning Deep Learning for NLP models.
+- 👀 I’m interested in Causal Inference, Empirical IO and Machine Learning application in Economics. 
+- 🌱 I’m currently learning Deep Learning for NLP.
 - 📫 How to reach me: Please, visit my [webpage](https://sites.google.com/view/marcelortizv)
 
 <!---
