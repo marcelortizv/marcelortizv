@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcelortizv
+- 👋 Hi, I’m @marcelortizv. I'm an Economics Ph.D. student @ Emory University 
 - 👀 I’m interested in Econometrics, Machine Learning, Networks, and Applied Microeconomics. 
 - 📫 How to reach me: Please, visit my [webpage](https://marcelortizv.github.io/)
 
