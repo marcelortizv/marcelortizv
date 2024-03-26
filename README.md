@@ -13,7 +13,7 @@ I've previously worked in the tech industry as a Data Scientist and ML Engineer.
 Feel free to hit me up if you think our interests align - I bet we'll find some cool stuff to talk about! 
 
 📫 How to reach me: 
-- 🌎 Webpage: https://marcelortizv.github.io/
+- 🌎 Webpage: https://marcelortiz.com/
 - 📧 Email: marcelo.ortiz@emory.edu
 - 👔 Linkedin: https://www.linkedin.com/in/marcelortizv/
 - 🆇 X: https://twitter.com/Marcelortizv
