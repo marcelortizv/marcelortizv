@@ -8,7 +8,7 @@
 - Machine Learning
 - Applied Microeconomics
 
-I've previously worked in the tech industry as Data Scientist and ML Engineer.
+I've previously worked in the tech industry as Data Scientist and Machine Learning Engineer.
 
 Feel free to hit me up if you think our interests align - I bet we'll find some cool stuff to talk about! 
 
