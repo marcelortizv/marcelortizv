@@ -2,11 +2,12 @@
 
 🙋‍♂️ I'm Marcelo Ortiz-Villavicencio, an Economics Ph.D. student @ Emory University 
 
- My current research interests are in the intersection of:
-- Econometrics
+My research interests lie at the intersection of:
+- Applied Econometrics
 - Causal Inference
 - Machine Learning
-- Applied Microeconomics
+
+I’m also enthusiastic about Reinforcement Learning (Dynamic Treatment Regimes & Personalized Policy Learning), Statistical Optimal Transport, and Experimental Design.
 
 I've previously worked in the tech industry as Data Scientist and Machine Learning Engineer.
 
