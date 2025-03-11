@@ -3,7 +3,7 @@
 🙋‍♂️ I'm Marcelo Ortiz-Villavicencio, an Economics Ph.D. student @ Emory University 
 
 My research interests lie at the intersection of:
-- Applied Econometrics
+- Econometrics
 - Causal Inference
 - Machine Learning
 
