@@ -1,13 +1,14 @@
-# Hi there! 👀
+# Hi there! 🙋‍♂️
 
-🙋‍♂️ I'm Marcelo Ortiz-Villavicencio, an Economics Ph.D. student @ Emory University 
+I'm Marcelo Ortiz-Villavicencio, an Economics Ph.D. student @ Emory University 
 
 My research interests lie at the intersection of:
 - Econometrics
 - Causal Inference
 - Machine Learning
+- Applied Microeconomics
 
-I’m also enthusiastic about Reinforcement Learning (Dynamic Treatment Regimes & Personalized Policy Learning), Statistical Optimal Transport, and Experimental Design.
+I’m also enthusiastic about Causal Reinforcement Learning (Dynamic Treatment Regimes & Personalized Policy Learning), Statistical Optimal Transport, and Experimental Design.
 
 I've previously worked in the tech industry as Data Scientist and Machine Learning Engineer.
 
