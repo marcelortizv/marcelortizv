@@ -5,7 +5,7 @@ I'm Marcelo Ortiz-Villavicencio, an Economics Ph.D. student @ Emory University
 My research interests lie at the intersection of:
 - Econometrics
 - Causal Inference
-- Machine Learning
+- Statistical Learning
 - Applied Microeconomics
 
 I’m also enthusiastic about Causal Reinforcement Learning (Dynamic Treatment Regimes & Personalized Policy Learning), Statistical Optimal Transport, and Experimental Design.
